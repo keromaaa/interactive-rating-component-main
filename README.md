@@ -54,7 +54,7 @@ In my future projects, I will try to build more complex web-sites with more laye
 
 ### Useful resources
 
-- [HTML/CSS tips](https://www.youtube.com/@KevinPowell) - Great channel with really useful tips and guides for writing better, simpler and more accessible HTML/CSS.
+- [HTML/CSS tips by Kevin Powell](https://www.youtube.com/@KevinPowell) - Great channel with really useful tips and guides for writing better, simpler and more accessible HTML/CSS.
 - [Scrimba React course](https://scrimba.com/) - Amazing, easy to understand and interactive course for React.
 
 ## Author
